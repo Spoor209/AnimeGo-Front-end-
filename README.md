@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
 # The front page
-![Image description](https://ibb.co/FbNzcjc)
+(https://ibb.co/FbNzcjc)
 
 ## Development server
 
